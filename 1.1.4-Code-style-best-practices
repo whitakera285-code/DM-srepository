@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>1.1.4-Code-style-best-practices</title>
+</head>
+<body>
+    <h1>1.1.4-Code-style-best-practices</h1>
+    <script>
+        // 1. Removed extra space before closing parenthesis
+        console.log('Hello world');
+
+        // 2. Added spaces around + operator
+        5 + 5;
+
+        // 3. Removed extra space after opening parenthesis
+        alert('Whoa, an alert!');
+
+        // 4. Removed space before opening parenthesis
+        prompt('What is your name?');
+
+        // 5. Removed hidden trailing space after the semicolon
+        console.log('I am logging a message to the console.');
+    </script>
+
+</body>
+</html>
