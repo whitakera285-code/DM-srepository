@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1.1.2-Create-a-prompt</title>
+</head>
+<body> <h1>1.1.2-Create-a-prompt</h1>
+<script>
+// PART 1: Ask for a color
+prompt("What is your favorite color?");
+// PART 2: Capture a name and alert it back
+var firstName = prompt('What is your name?');
+alert('Welcome ' + firstName + '!');
+</script>
+</body>
+</html>
