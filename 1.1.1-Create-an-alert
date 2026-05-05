@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1.1.1-Create-an-alert</title>
+</head>
+<body>
+    <h1>1.1.1-Create-an-alert!</h1>
+    <script>
+        // This is your Code Ramp assignment!
+        alert("Welcome to Code Ramp!");
+    </script>
+</body>
+</html>
