@@ -1,0 +1,12 @@
+console.log("A user's first name: string");
+console.log("The year a user was born: number");
+console.log("Whether or not a user is logged in: boolean");
+console.log("How long (in minutes) a user has been on a particular page: number");
+console.log("The middle name field for a user who has no middle name: null");
+console.log("If a user liked a post or not: boolean");
+console.log("The url for an external link to another page: string");
+
+// String is any kind of text
+// Number is any kind of number (or math)
+// Boolean is any kind of true/false or yes/no query
+// Null is any kind of value left out on purpose
