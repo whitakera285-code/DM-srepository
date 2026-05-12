@@ -1,0 +1,8 @@
+// Length of single string
+console.log("Hello World".length);
+
+// Combined length of two strings
+console.log("hello".length + "world".length);
+
+// Length of the passage
+console.log("You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.".length);
