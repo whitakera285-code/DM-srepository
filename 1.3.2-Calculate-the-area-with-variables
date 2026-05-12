@@ -1,0 +1,11 @@
+var height = prompt("Enter the height", 150);
+var width = prompt("Enter the width", 230);
+    
+// Convert strings to numbers; calculate area
+var area = Number(height) * Number(width);
+
+// Create result string
+var result = "The area is " + area;
+
+// Print the result
+console.log(result);
