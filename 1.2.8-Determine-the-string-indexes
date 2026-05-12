@@ -1,0 +1,11 @@
+// l is the 4th letter, so index is 3
+console.log("violin"[3] === "l");
+
+// u is the 3rd letter, so index is 2
+console.log("flute"[2] === "u");
+
+// x is the 1st letter, so index is 0
+console.log("xylophone"[0] === "x");
+
+// n is the 7th letter, so index is 6
+console.log("bassoon"[6] === "n");
