@@ -1,0 +1,11 @@
+// Set up height and width. Make em' variables
+var height = 150;
+var width = 230;
+
+// Calculate the area by multiplying
+var area = height * width;
+
+// Log the result
+console.log(area); 
+
+// It's 34500 ; that's hella big
