@@ -1,0 +1,9 @@
+var verse1 = "Hey Jude, don't let me down";
+var verse2 = "You have found her, now go and get her";
+var verse3 = "Remember to let her into your heart";
+var verse4 = "Then you can start to make it better";
+
+// Newline character \n conbines the verses
+var fullSong = verse1 + "\n" + verse2 + "\n" + verse3 + "\n" + verse4;
+
+console.log(fullSong);
