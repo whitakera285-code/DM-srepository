@@ -1,0 +1,7 @@
+var favoriteCity = "San Francisco";
+
+// Convert letters to lowercase
+var lowerCity = favoriteCity.toLowerCase();
+
+// Print the letters
+println(lowerCity);
