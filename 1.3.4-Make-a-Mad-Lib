@@ -1,0 +1,10 @@
+// Assign variables
+var adjective1 = 'blue';
+var adjective2 = 'fast';
+var adverb = 'quickly';
+
+// Create mad lib with variables
+var story = 'The ' + adjective1 + ' ' + adjective2 + ' ' + adverb + '.';
+
+// Print result
+console.log(story);
