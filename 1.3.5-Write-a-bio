@@ -1,0 +1,11 @@
+
+// Variables
+var firstName = "Sonic";
+var hometown = "South Island";
+var favoriteFood = "chili dogs";
+
+// Bio from string concatenation
+var bio = firstName + " is a blue hedgehog from " + hometown + ". Known as the Blue Blur, Sonic is the fastest thing alive and never turns down a hot plate of spicy " + favoriteFood + ".";
+
+// Print the bio to console
+console.log(bio);
