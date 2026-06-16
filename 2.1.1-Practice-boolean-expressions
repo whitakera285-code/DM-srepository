@@ -1,0 +1,27 @@
+// The following three expressions all currently
+// evaluate to true. Change just the value on the
+// left side of the expression to make it evaluate
+// to false instead.
+console.log(1 > 6); // Changed 101 to 1
+
+console.log(0 === 60 / 4); // Changed 15 to 0
+
+console.log("hello" !== "hello"); // Changed "Hello" to "hello"
+
+// The next three expressions all currently
+// evaluate to false. This time change the
+// operator (not the values themselves!) to
+// make them evaluate to true.
+console.log(6 <= 6); // Changed < to <= (6 is equal to 6)
+
+console.log("A" < "a"); // Changed > to < 
+
+console.log(false !== true); // Changed === to !== 
+
+// Now write three of your own boolean
+// expressions from scratch. They can be using
+// whichever operators and data types you'd like,
+// but make all three evaluate to true.
+console.log(5 === 5);
+console.log(20 > 10);
+console.log("apple" !== "orange");
