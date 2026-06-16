@@ -1,0 +1,8 @@
+var num = Number(prompt("Enter a number"));
+
+// Write your code below
+if (num === 10) {
+  console.log(true);
+} else {
+  console.log(false);
+}
