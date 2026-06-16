@@ -1,0 +1,8 @@
+var age = Number(prompt("Age", 37)); 
+
+// Write your code below 
+if (age >= 16) { 
+  console.log(true);
+} else { 
+  console.log(false);
+}
