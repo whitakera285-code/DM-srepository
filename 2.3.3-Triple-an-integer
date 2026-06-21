@@ -1,0 +1,3 @@
+function tripleInteger(num) {
+  return num * 3;
+}
