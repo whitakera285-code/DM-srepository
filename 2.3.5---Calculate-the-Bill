@@ -1,0 +1,7 @@
+function calculateBillTotal(preTaxAmount) {
+  var tax = preTaxAmount * 0.095; // 9.5% tax
+  var tip = preTaxAmount * 0.20;  // 20% tip
+  
+  var total = preTaxAmount + tax + tip;
+  return total;
+}
