@@ -1,0 +1,5 @@
+function greetFriend(name) { 
+  return "Hi, " + name + "!"; } 
+
+// Testing the function with different names
+console.log(greetFriend("Sonic")); // Will print: Hi, Sonic!
